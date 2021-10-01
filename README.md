@@ -86,11 +86,12 @@
 7. VIPER: https://youtu.be/46w-To-Aofk
 8. Clean Architecture: https://youtu.be/FK-Br0_d3Og
 
-# По паттернам: 
+# Паттерны: 
 1. MUST HAVE: Шаблоны проектирования Swift, паттерны: https://www.youtube.com/playlist?list=PLDYxpD3lDWsxWls2_-mwOHLGdtrpqapVJ
-2. Абстрактная Фабрика: https://youtu.be/1mVONOCxfLg
-3. Фабричный метод: https://youtu.be/5UqUDR6_2cY
-4. Nice to have: Еще не много по паттернам: https://youtu.be/Dghn6sXJnPY
+2. Repository к первому видео: https://github.com/artkirillov/DesignPatterns
+3. Абстрактная Фабрика: https://youtu.be/1mVONOCxfLg
+4. Фабричный метод: https://youtu.be/5UqUDR6_2cY
+5. Nice to have: Еще не много по паттернам: https://youtu.be/Dghn6sXJnPY
 
 # Алгоритмы: 
 1. Гарвард. Быстрая сортировка: https://youtu.be/4s-aG6yGGLU
