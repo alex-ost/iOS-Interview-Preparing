@@ -35,7 +35,7 @@
 # Открытые собеседования и тд: 
 1. Очень сильное публичное собеседование, разбираем ВСЕ что не знаем: https://youtu.be/z-27o6bJh8A
 2. Собеседование по многопоточности: https://youtu.be/ZDzLqQELe3s
-3. Публичное собеседование (Петя Корнев): https://youtu.be/ZIiwsgNpMo4
+3. Публичное собеседование: https://youtu.be/ZIiwsgNpMo4
 4. Публичное собеседование: https://youtu.be/3Wu_G9bIxVw
 5. Каверзные вопросы и задачи с собеседований iOS: https://youtu.be/gRuE8aS8DHY
 6. GCD - Каверзные вопросы и задачи на iOS-Собеседование: https://youtu.be/uEeFqIUXJcE
