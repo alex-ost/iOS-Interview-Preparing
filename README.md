@@ -49,20 +49,20 @@
 6. Good to know: Александр Красиков — Аудиосессия в iOS: https://youtu.be/9xpW_nzH8aQ
 8. Good to know: Improve your knowledge of Swift!: https://youtube.com/playlist?list=PLdXMqVQnoFleH3GSuTUpr3Fjzp1JMy-je
 7. Nice to have: ObjC и никакого мошенничества: https://youtu.be/TniyEULwDjg 
-9. Responder Chain: https://youtu.be/le7tzeqN908
-10. Responder Chain: https://youtu.be/i01OwhToIrk
 
 # Диспетчеризация: 
 1. MUST HAVE: Swift Method Dispatch: https://youtu.be/kolL8r7Tz2w
 2. Method Dispatch в Swift (и не только): https://youtu.be/KoCjIv0moEE
 
-# Не плохо посмотреть если есть время: 
+# Всякое: 
 1. Swift: Result Builders Introduction https://youtu.be/PKPTSsp0ZMQ
 2. Swift Result Builders deep dive for Swift 5.3: https://youtu.be/LKFVcc_uC60
-3. Custom Operators: https://youtu.be/wbIwhv98ALg
-4. Основы многопоточности в iOS: https://youtu.be/JgUBBoRydoE
-5. async/await в Swift: https://youtu.be/F02-k1X_Rok
-6. Архитектура окна iOS приложения. Жизненный цикл ViewController: https://youtu.be/Jz_neQAfZaQ
+3. Основы многопоточности в iOS: https://youtu.be/JgUBBoRydoE
+4. async/await в Swift: https://youtu.be/F02-k1X_Rok
+5. Архитектура окна iOS приложения. Жизненный цикл ViewController: https://youtu.be/Jz_neQAfZaQ
+6. Custom Operators: https://youtu.be/wbIwhv98ALg
+7. Responder Chain: https://youtu.be/le7tzeqN908
+8. Responder Chain: https://youtu.be/i01OwhToIrk
 
 # Рекомендации: 
 1. Принцип хорошего кода KISS: https://youtu.be/rix-fkrloq4
